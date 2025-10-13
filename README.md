@@ -25,8 +25,7 @@ I'm a **Java Developer Intern** working on Spring Boot Microservices, CPaaS APIs
 
 ---
 
-📊 Recent Activity (Last 3 Months)
-[![Rudra's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rudra-dhamecha&theme=tokyo-night&custom_title=Rudra's%20Commit%20Graph%20(Last%203%20Months))](https://github.com/rudra-dhamecha)
+📊 GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=rudra-dhamecha&theme=tokyonight-duo)](https://git.io/streak-stats)
 
 ---
