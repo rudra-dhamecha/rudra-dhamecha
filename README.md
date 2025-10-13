@@ -25,7 +25,7 @@ I'm a **Java Developer Intern** working on Spring Boot Microservices, CPaaS APIs
 
 ---
 
-📊 GitHub Streak
+### 📊 GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=rudra-dhamecha&theme=tokyonight-duo)](https://git.io/streak-stats)
 
 ---
