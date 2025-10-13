@@ -25,10 +25,8 @@ I'm a **Java Developer Intern** working on Spring Boot Microservices, CPaaS APIs
 
 ---
 
-📈 GitHub Stats
-
-![Rudra's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudra-dhamecha&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudra-dhamecha&layout=compact&theme=tokyonight)](https://github.com/rudra-dhamecha)
+📊 Recent Activity (Last 3 Months)
+[![Rudra's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rudra-dhamecha&theme=tokyo-night&custom_title=Rudra's%20Commit%20Graph%20(Last%203%20Months))](https://github.com/rudra-dhamecha)
 
 ---
 
