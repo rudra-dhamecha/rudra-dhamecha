@@ -24,11 +24,6 @@ I'm a **Java Developer Intern** working on Spring Boot Microservices, CPaaS APIs
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
-### Contribution graph
-[![Rudra's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=rudra-dhamecha&bg_color=0d1117&color=58a6ff&line=58a6ff&point=FFFFFF&area=true&hide_border=true)](https://github.com/rudra-dhamecha)
-
-
----
 
 ### 📊 GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=rudra-dhamecha&theme=tokyonight-duo)](https://git.io/streak-stats)
