@@ -25,11 +25,6 @@ I'm a **Java Developer Intern** working on Spring Boot Microservices, CPaaS APIs
 
 ---
 
-### 📊 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=rudra-dhamecha&theme=tokyonight-duo)](https://git.io/streak-stats)
-
----
-
 📫 Reach me:
 - [LinkedIn](https://www.linkedin.com/in/rudra-dhamecha-6988161b6)
 - Email: rudragdhamecha@gmail.com
